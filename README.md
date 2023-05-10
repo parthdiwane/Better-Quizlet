@@ -1,2 +1,2 @@
 # Better Quizlet
-Amador Valley HS student hub
+Quizlet, But better :)
